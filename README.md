@@ -16,7 +16,7 @@ pip3 install google-api-python-client
 ```
 
 ## API Key Setup
-To use the YouTube Data API, you need to set up an API key. Replace the placeholder in the script with your actual API key. if you do not know how to generate google API [Instruction](https://github.com/itsdk109/YouTube_Video_Tags_and_Description_Extractor/blob/main/google_api_create_instruction). or [Official_Site](https://cloud.google.com/api-gateway/docs/creating-api).
+To use the YouTube Data API, you need to set up an API key. Replace the placeholder in the script with your actual API key. if you do not know how to generate google API [Instruction](https://github.com/itsdk109/YouTube_Video_Tags_and_Description_Extractor/blob/main/google_api_create_instruction) or [Official_Site](https://cloud.google.com/api-gateway/docs/creating-api).
 
 ```python
 # Set your API key here (You should replace this with your actual API key)
