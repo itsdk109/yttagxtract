@@ -30,7 +30,7 @@ API_KEY = 'Your_API_Key_Here'
 2. Navigate to the directory containing the script.
 3. Run the script by entering the following command:
    ```bash
-   python script_name.py
+   python setup.py
    ```
 
 ### For Linux Users
