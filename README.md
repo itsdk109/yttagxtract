@@ -57,3 +57,9 @@ The script will display the following details of the provided YouTube video:
 Note: In case of an invalid YouTube video URL format, an error message will be displayed.
 
 Feel free to use this script to quickly gather information about your favorite YouTube videos!
+
+# Disclaimer: 
++ Do not use this tool for illegal or unethical purposes.
++ This script is intended for educational and legitimate purposes only.
++ Ensure compliance with YouTube's terms of service and policies while using this tool.
++ The developers of this script are not responsible for any misuse or violation of terms.
