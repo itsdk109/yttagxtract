@@ -47,7 +47,7 @@ API_KEY = 'Your_API_Key_Here'
 ## Input
 Enter a valid YouTube video URL when prompted.
 
-![Project ScreenShot](yttagxtract.jpg)
+![Project ScreenShot](abc.png)
 
 
 ## Output
