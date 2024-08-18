@@ -47,6 +47,9 @@ API_KEY = 'Your_API_Key_Here'
 ## Input
 Enter a valid YouTube video URL when prompted.
 
+![Project Screenshot](yttagxtract.jpg)
+
+
 ## Output
 The script will display the following details of the provided YouTube video:
 - Video ID
